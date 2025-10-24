@@ -7,7 +7,7 @@ Inspirada en las mejores apps de comida moderna, combina una **UI limpia, modo o
 
 ## 🖼️ Vista Previa  
 
-![Jaegar Pizza App](https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?auto=format&fit=crop&w=1000&q=80)
+![Jaegar Pizza App](https://i.ibb.co/mC9QsCfv/delivery.png)
 
 ---
 
